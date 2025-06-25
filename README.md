@@ -68,7 +68,7 @@ This dashboard didn’t just visualize data — it **drove impactful decisions**
 
 - `EmailCampaignReport.pbix` – Power BI report file
 - `README.md` – This documentation
-- (Optional) `/screenshots` – Key report visuals for preview
+- `/screenshots` – Report visuals for preview
 
 ---
 
