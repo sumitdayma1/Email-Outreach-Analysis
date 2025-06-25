@@ -69,6 +69,7 @@ This dashboard didn’t just visualize data — it **drove impactful decisions**
 - `EmailCampaignReport.pbix` – Power BI report file
 - `README.md` – This documentation
 - `/screenshots` – Report visuals for preview
+- - `/NEW HORNBILL MARKETING ANALYSIS.pbit` – Power BI file for preview
 
 ---
 
